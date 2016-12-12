@@ -90,7 +90,6 @@ class fewbricks {
               'fewbricks/load/init/field-groups',
               $fewbricks_template_directory . 'field-groups/init.php'
             );
-
             require($groups);
 
         }
