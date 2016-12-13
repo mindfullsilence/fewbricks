@@ -5,7 +5,14 @@
   "keywords": ["acf","advanced custom fields", "wordpress", "modules", "reusable"],
   "homepage": "https://github.com/folbert/fewbricks",
   "license": "GPLv3",
+  "version": "0.0.0",
   "authors": [
+    {
+      "name": "Timothy Anderson",
+      "email": "voltecdesign@gmail.com",
+      "homepage": "http://github.com/mindfullsilence",
+      "role": "Developer"
+    },
     {
       "name": "Björn Folbert",
       "email": "b@folbert.com",
@@ -14,7 +21,7 @@
     }
   ],
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=5.6.0",
     "folbert/acf-fewbricks-hidden": ">=1.0"
   }
 }
