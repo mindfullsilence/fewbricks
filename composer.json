@@ -5,7 +5,7 @@
   "keywords": ["acf","advanced custom fields", "wordpress", "modules", "reusable"],
   "homepage": "https://github.com/folbert/fewbricks",
   "license": "GPLv3",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     {
       "name": "Timothy Anderson",
